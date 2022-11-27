@@ -6,15 +6,14 @@ tags: [testing, information]
 layout: post
 author: IgorG
 ---
-# The True Power of Tester isInformation
+
 Hello to my QA brothers and sisters,
 Video from my talk at SQA Days #22 conference.
 Just for Russian speakers only.
 Enjoy!
 
-[![My SQADays Talk](/iggmasterdev.github.io/_data/images/IlaryHenrik.png)][MyVideo]
-
-[MyVideo]: https://youtube.com/watch?v=TO4iQexl_Yo
+![alt text](./sqa22.png "Title")
+[MyVideo](https://youtube.com/watch?v=TO4iQexl_Yo)
 
 His definition of a world-class tester is “a person who is able to rapidly discover highly relevantinformation about the product, who makes the most use of any resource that is available to him/her,and who has the respect of people involved in a project. It is a person who can be trusted.”
 You will also hear him talking a few interesting ideas in regards to testing in general:

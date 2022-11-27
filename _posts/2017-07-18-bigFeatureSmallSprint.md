@@ -1,13 +1,11 @@
 ---
-title: A big feature and a small sprint? Whatto do?
+title: A big feature and a small sprint? What to do?
 date: 2017-07-18 12:00:00 +200
 categories: [agile,testing,talks]
 tags: [agile_testing,big_feature,test_planning]
 layout: post
 author: IgorG
 ---
-
-# A big feature and a small sprint? Whatto do?
 I once found myself in a situation where a big and important feature needed to be delivered in a singlesprint where both development and testing must be completed. Sounds familiar, doesn’t it? Nowimagine that your sprint lasts only 2 weeks. Usually, these kinds of things can result in a situation wherethe whole team sits together during late hours and executes all tests until the very last minute. It canbe a real mess… But we can turn it to be quite successful… That was just the thing I was talking aboutduring my talk ‘’Big feature – small sprint’’, while at the “SQA Days” 21st conference at Moscow.
 
 In my talk, I told a story about Gettpool, why him? Because Gettpool is just like us – a tester on theteam of superheroes. And yes, like us, he is the go-to punching bag. When he first encounters the “bigfeatures” challenge, he realizes that the whole sprint will be spent on testing (this is 2 weeks we’retalking about). His first desire is to start testing everything. But he knows that everything should bedone in order.

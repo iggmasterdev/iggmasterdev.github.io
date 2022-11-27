@@ -6,8 +6,6 @@ tags: [agile_testing]
 layout: post
 author: IgorG
 ---
-# Becoming a QA Ninja – Mastery ofInformation.
-
 How does one become a master in the art of quality assurance? What are the various aspects ofultimate QA engineering that when put together by a single individual, will grant him or her the secretsuperpowers of utter quality assurance? Such an individual will then be very appealing for virtuallyevery company interested in creating high-quality products, assuming they can afford hiring a ninja ofcourse. In order to start answering such a profound question, this article covers one of the cornerstonesof quality assurance – how to master all the information required for assuring a high-quality release ofthe product.
 
 ## Why is mastery of information such important?
